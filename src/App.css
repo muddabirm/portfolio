@@ -21,3 +21,11 @@ a{
   text-decoration: none;
   margin: 10px;
 }
+.hero{
+  display: flex;
+  align-items: center;
+  padding-top: 100px;
+  width: 100%;
+  flex-direction: column;
+  height: auto;
+}
