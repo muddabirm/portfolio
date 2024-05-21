@@ -1,0 +1,23 @@
+body{
+  background-color: #222831;
+  color: #EEEEEE;
+}
+.logo{
+  width: 125px;
+  height: 125px;
+}
+
+.nav{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  color: #EEEEEE;
+}
+.navlinks{
+  list-style: none;
+  display: flex;
+}
+a{
+  text-decoration: none;
+  margin: 10px;
+}
