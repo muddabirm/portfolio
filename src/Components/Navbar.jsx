@@ -8,7 +8,7 @@ const Navbar = () => {
         <img className='logo' src={logo} alt="" />
         <ul className='navlinks'>
             <li>
-                <a href="#">About Me</a>
+                <a href="#aboutMeSection">About Me</a>
             </li>
             <li>
                 <a href="#">Contact Me</a>
